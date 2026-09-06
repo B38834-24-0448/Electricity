@@ -1,5 +1,560 @@
 # [automatic-repositories](https://github.com/B38834-24-0448?tab=repositories)
 # https://e-report.energy.go.th/
+<!-- wp:paragraph -->
+<p>รัฐมนตรีรักษาการ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ชื่อสถานที่</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://data.creden.co/company/general/0105557170242">บริษัท บริษัท ลาลามูฟ อีซี่แวน (ประเทศไทย) จำกัด</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://play.google.com/store/apps/details?id=ric.softz.lightingradarlightingfgtyriodgt">เขตการปกครอง</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>อำเภอเชียงคาน จังหวัดเลย 42110</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>หมวดสถานที่</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>tag: ปั๊มน้ำมัน&nbsp;,&nbsp;tag: จุดเสี่ยงเกิดอุบัติเหตุ , tag:&nbsp; จุดไฟฟ้าขัดข้อง , tag: การไฟฟ้า , tag: โรงผลิต</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>พิกัด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ชั้นข้อมูล</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>จราจร&nbsp;,&nbsp;จุดชาร์จรถไฟฟ้า</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>การไฟฟ้าส่วนภูมิภาค สำนักงานการไฟฟ้าส่วนภูมิภาคสาขาอำเภอเชียงคาน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>99 หมู่ 6 ถนนทางหลวงแผ่นดินหมายเลข 201 ต.เชียงคาน อ.เชียงคาน จ.เลย 42110</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.pea.co.th/" target="_blank" rel="noreferrer noopener">http://www.pea.co.th</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://promptpai.com/ws/promptpai-link?pp_id=10288953\u0026amp;size=normal\u0026amp;button_style=button\u0026amp;theme=light\u0026amp;locale=th"} -->
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://promptpai.com/ws/promptpai-link?pp_id=10288953&amp;size=normal&amp;button_style=button&amp;theme=light&amp;locale=th
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>หน่วยงาน, สถาบัน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/church.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>โบสถ์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/graveyard.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>สุสาน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/mosque.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>มัสยิด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/temple.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>วัด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/education.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>สถานศึกษา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/electricity.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Electricity">https://map.longdo.com/branches/Electricity</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/hospital.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>โรงพยาบาล, คลินิก, สาธารณสุข</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/mail.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Post">ที่ทำการไปรษณีย์</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/police.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Police">สถานีตำรวจ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/embassy.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Embassy">สถานเอกอัครราชทูต</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/government-office2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Government_office">สถานที่ราชการ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/library.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ห้องสมุด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/tat.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Tat">ททท.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/thailand_post.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Thailand_post">ไปรษณีย์ไทย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/government.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Government_official">หน่วยงานภาครัฐ (ทางการ)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/fire-station.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>สถานีดับเพลิง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/redcross.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>สภากาชาดไทย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/city_hall.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/City_hall">ศาลากลางจังหวัด</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/national_park.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>อุทยานแห่งชาติ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/forest_park.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>วนอุทยาน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/jt_express.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/J%26t_express">เจแอนด์ที เอ็กซ์เพรส</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/kerry_express.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Kerry_express">เคอรี่ เอ็กซ์เพรส</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/flash_express.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Flash_express">แฟลช เอ็กซ์เพรส</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/expressway.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>การทางพิเศษแห่งประเทศไทย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/dhl_express.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ดีเอชแอล เอ็กซ์เพรส</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/reddot.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>การประปา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/education.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>มหาวิทยาลัย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/education.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>โรงเรียน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/education.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>วิทยาลัย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/nim_express.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/ayudhya.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารกรุงศรีอยุธยา</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคาร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bangkokbank.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารกรุงเทพ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/kasikorn.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารกสิกรไทย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/kiatnakin.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารเกียรตินาคินภัทร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/ktc.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารกรุงไทย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/scb.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารไทยพาณิชย์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/thanachart.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารธนชาต</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/tisco.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารทิสโก้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/tmb.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารทหารไทย</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/uob.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารยูโอบี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/government-saving-bank.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารออมสิน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/cimb.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารซีไอเอ็มบี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/aeon.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>อิออน</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_baac.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร (ธ.ก.ส.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_bnp_pahibas.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>BNP Paribas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_exim.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารเพื่อการส่งออกและนำเข้าแห่งประเทศไทย (ธสน.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_gh.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารอาคารสงเคราะห์ (ธอส.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_hsbc.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารเอชเอสบีซี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_icbc.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารไอซีบีซี</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_islamic.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารอิสลาม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_lh.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารแลนด์ แอนด์ เฮ้าส์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_rhb.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคาร RHB</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_sme.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารพัฒนาวิสาหกิจขนาดกลางและขนาดย่อมแห่งประเทศไทย (ธพว.)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank_standard_charter.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารสแตนดาร์ดชาร์เตอร์ด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/superrich.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ซุปเปอร์ริช เคอเรนซี่ เอ็กซ์เชนจ์ (1965)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/citibank.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ธนาคารซิตี้แบงก์</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/umayplus.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>ยูเมะพลัส</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/reddot.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Tot">อินเตอร์เน็ต</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://map.longdo.com/branches/Atm">เอทีเอ็ม</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://mmmap15.longdo.com/mmmap/images/icons_2x/bank.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>บริการแลกเปลี่ยนเงินตราหน่วยงาน, สถาบัน</p>
+<!-- /wp:paragraph -->
+
+
 
 <!-- wp:paragraph -->
 <p><a href="https://learn.microsoft.com/th-th/docs/#main" class="outline-color-text visually-hidden-until-focused position-fixed inner-focus focus-visible top-0 left-0 right-0 padding-xs text-align-center background-color-body">ข้ามไปยังเนื้อหาหลัก</a></p>
