@@ -1,4 +1,4 @@
-# [automatic-repositories]
+# [automatic-repositories](https://github.com/B38834-24-0448?tab=repositories)
 # https://e-report.energy.go.th/
 
 <!-- wp:paragraph -->
